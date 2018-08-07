@@ -16,8 +16,6 @@ public class MidtransPackage implements ReactPackage{
 
     private Activity mActivity = null;
 
-
-    @Override
     public List<Class<? extends JavaScriptModule>> createJSModules(){
       return Collections.emptyList();
     }
