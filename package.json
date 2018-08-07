@@ -23,11 +23,11 @@
  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/radiegtya/react-native-midtrans"
+    "url": "https://github.com/RamdanK/react-native-midtrans"
   },
-  "dependencies": {
-    "react": "15.4.2",
-    "react-native": "0.42.3"
+  "peerDependencies": {
+    "react": "16.3.2",
+    "react-native": "0.55.3"
   },
   "devDependencies": {
     "babel-jest": "19.0.0",
